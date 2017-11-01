@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    font-family: Arial;
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/df/a6/c0/dfa6c0262ea159470db1ca4767f41aa7.jpg");
+    background-size:cover;
+    color: white;
+}
+img{
+    width: 30%;
+}
